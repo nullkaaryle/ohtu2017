@@ -20,4 +20,6 @@ System.setProperty("webdriver.chrome.driver", "oma_polku/chromedriver.exe");
 
 ## tapa 2
 
+Asenna Homebrew:n avulla: `brew install chromedriver`
+
 ## tapa 3
